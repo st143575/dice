@@ -1,2 +1,2 @@
 # dice
-a small dice game
+a small dice game uses python3
